@@ -1,3 +1,10 @@
 "Este archivo será utilizado para emular modificaciones en el proyecto colaborativo.
 
-Francisco_Enriquez_Persona_1."
+Francisco_Enriquez_Persona_1."{
+Rodrigo Osuna.
+
+El repositorio remoto actualizado se puede encontrar en las url's
+
+https://github.com/FranckEnriquez/tarea_colaborativo2
+
+https://github.com/RodrigoOsuna/tarea_colaborativo2
